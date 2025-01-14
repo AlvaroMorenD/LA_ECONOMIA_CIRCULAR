@@ -1,5 +1,5 @@
 # LA ECONOMÍA CIRCULAR
-![economia_circular](img/economia_circualr.jpg)
+![economia_circular](img/economia_circular.jpg)
 ---
 Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 ## Índice
