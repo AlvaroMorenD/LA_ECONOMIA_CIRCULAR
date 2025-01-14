@@ -4,3 +4,4 @@ En este proyecto vamos a hablar de la economía circular, es un modelo sostenibl
 
 ![Introduccion](img/introduccion.png)
 
+[Imagen generada por IA](https://openai.com/index/chatgpt/)
