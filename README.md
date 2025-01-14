@@ -8,9 +8,9 @@
 
 1.4 [La economía verde](.md)
 
-1.5 [Ciclo de vida de un producto](.md)
+1.5 [Ciclo de vida de un producto](CicloProducto.md)
 
-1.6 [El ecodiseño y las estrategias sostenibles](.md)
+1.6 [El ecodiseño y las estrategias sostenibles](EcodiseñoSostenible.md)
 
 ## Mapa conceptual
 
