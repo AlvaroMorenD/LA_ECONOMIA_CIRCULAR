@@ -1,4 +1,4 @@
-# LA ECONOMIA CIRCULAR
+# LA ECONOMÍA CIRCULAR
 ![economia_circular](img/economia_circualr.jpg)
 ---
 Imagen Realizada Con Grok (Inteligencia Artificial de Twitter)
