@@ -1,5 +1,5 @@
 # LA ECONOMIA CIRCULAR
-![economia_circular](economia_circualr.jpg)
+![economia_circular](img/economia_circualr.jpg)
 ## Índice
 1.1. [Introducción](.md)
 
