@@ -3,7 +3,7 @@
 ---
 Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 ## Índice
-1.1. [Introducción](.md)
+1.1. [Introducción](introduccion.md)
 
 1.2 [Concepto de economía circular](.md)
 
