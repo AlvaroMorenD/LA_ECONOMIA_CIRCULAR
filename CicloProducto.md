@@ -8,5 +8,8 @@ Este concepto se refiere a las etapas por las que pasa cualquier artículo comer
 
 **-Etapa de declive:** es la etapa donde el producto empieza a ser olvidado a medida que pasa el tiempo. Diferentes productos acaban reemplazando esos productos que en su día eran famosos.
 
+![Descripción alternativa](img/cicloProducto.avif)
+
+
 
 
