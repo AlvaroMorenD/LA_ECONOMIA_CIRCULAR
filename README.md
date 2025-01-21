@@ -16,8 +16,8 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 1.6 [El ecodiseño y las estrategias sostenibles](.md)
 
 ## Mapa conceptual
-
-Herramienta Utilizada: Canva
+![mapa](img/mapa.png)
+Herramienta Utilizada: Mapify
 ## [Glosario]()
 Herramienta Utilizada: Genially
 ## [Conclusiones](conclusion.md)
