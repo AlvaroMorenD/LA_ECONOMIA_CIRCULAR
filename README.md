@@ -1,9 +1,9 @@
 # LA ECONOMÍA CIRCULAR
-![economia_circular](img/economia_circualr.jpg)
+![economia_circular](img/economia_circular.jpg)
 ---
-Imagen Realizada Con [Grok(https://x.ai/) (Inteligencia Artificial de Twitter)]
+Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 ## Índice
-1.1. [Introducción](.md)
+1.1. [Introducción](introduccion.md)
 
 1.2 [Concepto de economía circular](.md)
 
@@ -17,7 +17,6 @@ Imagen Realizada Con [Grok(https://x.ai/) (Inteligencia Artificial de Twitter)]
 
 ## Mapa conceptual
 
----
 Herramienta Utilizada: Canva
 ## [Glosario]()
 Herramienta Utilizada: Genially
