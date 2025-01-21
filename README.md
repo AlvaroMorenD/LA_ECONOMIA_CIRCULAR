@@ -17,7 +17,7 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 
 ## Mapa conceptual
 
-![mapa](img/Construir software mejor, juntos.png)
+![mapa](img/Construirsoftwaremejor,juntos.png)
 
 Herramienta Utilizada: Mapify
 ## [Glosario]()
