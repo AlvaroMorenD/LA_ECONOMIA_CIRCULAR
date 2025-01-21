@@ -4,4 +4,7 @@ La **economía verde** y la **economía circular** son conceptos complementarios
 
 La economía verde se integra en la economía circular al compartir el objetivo de utilizar recursos de manera sostenible, reducir residuos y fomentar la innovación en tecnologías limpias. Mientras la economía verde establece los principios ambientales, la economía circular ofrece estrategias prácticas para alcanzarlos, contribuyendo así a un desarrollo más sostenible y bajo en carbono.
 
+
 ![economia verde](img/economia_verde.jpg)
+
+[Economía Verde | UNEP](https://www.unep.org/es/regiones/america-latina-y-el-caribe/iniciativas-regionales/promoviendo-la-eficiencia-de-recursos-1?utm_source=chatgpt.com)
