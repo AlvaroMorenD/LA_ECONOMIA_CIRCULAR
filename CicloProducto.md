@@ -12,6 +12,8 @@ Este concepto se refiere a las etapas por las que pasa cualquier artículo comer
 
 ![ikerlol](img/cicloProducto.avif)
 
+[![Texto alternativo](https://mailchimp.com/es/resources/product-life-cycle/)
+
 
 
 
