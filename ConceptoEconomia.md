@@ -14,3 +14,4 @@ Ahora hablaremos sobre el concepto de economía circular, la economía circular 
   * Se conserva mucho mejor el ambiente
   * También impulsa la economía local y del consumo responsable.
 
+![Concepto](img/concepto.jpg)
