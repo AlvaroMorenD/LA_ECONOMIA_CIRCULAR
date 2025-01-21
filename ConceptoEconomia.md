@@ -16,4 +16,5 @@ Ahora hablaremos sobre el concepto de economía circular, la economía circular 
 
 ![Concepto](img/concepto.jpg)
 [Imagen generada por IA](https://openai.com/)
+
 [Parlamento Europeo](https://www.europarl.europa.eu/topics/es/article/20151201STO05603/economia-circular-definicion-importancia-y-beneficios?utm_source=chatgpt.com)
