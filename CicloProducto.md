@@ -1,3 +1,5 @@
+![ikerlol](img/cicloProducto.avif)
+
 Este concepto se refiere a las etapas por las que pasa cualquier artículo comercial desde su inicio hasta su retirada. Ayuda a determinar los programas publicitarios, los precios, la expansión a nuevos mercados de productos y el rediseño de los envases entre otras cosas. Vamos a ver en cuestión las 4 etapas del ciclo de la vida;
 
 **-Etapa de desarrollo:** este proceso averigua qué tipo de producto se desea añadir en el mercado. Se realizan una serie de estudios que investigan las posibles oportunidades, sus diseños y sus capacidades.
@@ -8,7 +10,7 @@ Este concepto se refiere a las etapas por las que pasa cualquier artículo comer
 
 **-Etapa de declive:** es la etapa donde el producto empieza a ser olvidado a medida que pasa el tiempo. Diferentes productos acaban reemplazando esos productos que en su día eran famosos.
 
-![ikerlol](img/cicloProducto.avif)
+
 
 
 
