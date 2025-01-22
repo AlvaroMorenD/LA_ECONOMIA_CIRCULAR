@@ -17,7 +17,9 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 
 ## Mapa conceptual
 
-Herramienta Utilizada: Canva
+![mapa](img/mapa.jpg)
+
+Herramienta Utilizada: Mapify
 ## [Glosario]()
 Herramienta Utilizada: Genially
 ## [Conclusiones](conclusion.md)
