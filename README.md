@@ -7,7 +7,7 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 
 1.2 [Concepto de economía circular](concepto.md)
 
-1.3 [Modelos de producción actuales y consumismo](modelo.md)
+1.3 [Modelos de producción actuales y consumismo](modelos.md)
 
 1.4 [La economía verde](verde.md)
 
