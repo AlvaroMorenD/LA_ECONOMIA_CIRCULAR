@@ -5,11 +5,11 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 ## Índice
 1.1. [Introducción](introduccion.md)
 
-1.2 [Concepto de economía circular](.md)
+1.2 [Concepto de economía circular](concepto.md)
 
-1.3 [Modelos de producción actuales y consumismo](.md)
+1.3 [Modelos de producción actuales y consumismo](modelo.md)
 
-1.4 [La economía verde](.md)
+1.4 [La economía verde](verde.md)
 
 1.5 [Ciclo de vida de un producto](.md)
 
