@@ -17,10 +17,14 @@ Este concepto nos permite no solo reducir el daño que causamos al planeta, sino
 ## Pasos para implemnentar el ecodiseño
 
 **- Compromiso gerencial:** que todos estén de acuerdo en implementarse (las empresas y demas...).
+
 **- Formación del equipo de trabajo.**
+
 **- Análisis del ciclo de vida del producto** (hablado en el punto 1.5).
+
 **- Implementación y monitoreo:** verificamos su efectividad y realizar los ajustes necesarios.
 
 Al elegir productos y servicios ecodiseñados, los consumidores están incentivando a las empresas a seguir este camino. Por eso, como consumidores, debemos estar informados y optar por productos que contribuyen a un futuro sostenible. 
 
 ![ikerlol](img/ecosistema.jpg)
+
