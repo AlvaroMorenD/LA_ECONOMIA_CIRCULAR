@@ -21,7 +21,6 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 
 Herramienta Utilizada: Mapify
 ## [Glosario](glosario.md)
-Herramienta Utilizada: Genially
 ## [Conclusiones](conclusiones.md)
 ## Autores
 - Iván Palma Sierra
