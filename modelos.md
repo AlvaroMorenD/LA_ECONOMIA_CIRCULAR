@@ -17,5 +17,7 @@
 Estos modelos y tendencias influyen en la sociedad, economía y medio ambiente, generando tanto desafíos como oportunidades para la sostenibilidad.
 
 ![modelos](img/modelos.jpg)
+
 [Imagen realizada con IA](https://chatgpt.com/)
+
 [mrpeasy](https://www.mrpeasy.com/blog/es/fabricacion-justo-a-tiempo/?utm_source=chatgpt.com)
