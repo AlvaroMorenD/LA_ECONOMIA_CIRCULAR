@@ -20,7 +20,7 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 ![mapa](img/mapa.jpg)
 
 Herramienta Utilizada: Mapify
-## [Glosario]()
+## [Glosario](glosario.md)
 Herramienta Utilizada: Genially
 ## [Conclusiones](conclusiones.md)
 ## Autores
