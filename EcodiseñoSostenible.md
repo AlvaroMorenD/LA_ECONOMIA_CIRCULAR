@@ -4,15 +4,15 @@ Este concepto nos permite no solo reducir el daño que causamos al planeta, sino
 
 **· Se basa en;**
 
--Reducir la generación de residuos 
+- Reducir la generación de residuos 
 
--Evitar la contaminación
+- Evitar la contaminación
 
--Innovación y mejora continua
+- Innovación y mejora continua
 
--Consideración de todos los actores 
+- Consideración de todos los actores 
 
--Precaución y prevención
+- Precaución y prevención
 
 ## Pasos para implemnentar el ecodiseño
 
