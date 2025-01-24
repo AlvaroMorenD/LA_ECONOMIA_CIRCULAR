@@ -22,7 +22,7 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 Herramienta Utilizada: Mapify
 ## [Glosario]()
 Herramienta Utilizada: Genially
-## [Conclusiones](conclusion.md)
+## [Conclusiones](conclusiones.md)
 ## Autores
 - Iván Palma Sierra
 - Iker Cupillar Aliaga
