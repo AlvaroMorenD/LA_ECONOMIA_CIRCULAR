@@ -28,5 +28,7 @@ Al elegir productos y servicios ecodiseñados, los consumidores están incentiva
 
 ![ikerlol](img/ecosistema.jpg)
 
+[Imagen realizada con IA](https://chatgpt.com/)
+
 [PEÑACLARA](https://penaclara.es/el-ecodiseno-una-estrategia-para-una-produccion-sostenible/)
 
