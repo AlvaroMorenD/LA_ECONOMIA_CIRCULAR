@@ -19,3 +19,4 @@ Este concepto nos permite no solo reducir el daño que causamos al planeta, sino
 
 Al elegir productos y servicios ecodiseñados, los consumidores están incentivando a las empresas a seguir este camino. Por eso, como consumidores, debemos estar informados y optar por productos que contribuyen a un futuro sostenible. 
 
+![ikerlol](img/ecosistema.jpg)
