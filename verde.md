@@ -7,4 +7,6 @@ La economía verde se integra en la economía circular al compartir el objetivo 
 
 ![economia verde](img/economia_verde.jpg)
 
+[Imagen realizada con IA](https://chatgpt.com/)
+
 [Economía Verde | UNEP](https://www.unep.org/es/regiones/america-latina-y-el-caribe/iniciativas-regionales/promoviendo-la-eficiencia-de-recursos-1?utm_source=chatgpt.com)
