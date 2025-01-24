@@ -1,7 +1,7 @@
 # Glosario
 
 ## 1.1 Introducción  
-Parte inicial de un documento, texto o discurso donde se plantea el tema principal, se establece el propósito y se introduce al lector a los contenidos que se desarrollarán en el texto.
+La economía circular es un modelo sostenible que busca optimizar el uso de los recursos, reduciendo residuos y promoviendo la reutilización, el reciclaje y el ecodiseño. Su objetivo es minimizar el impacto ambiental y fomentar un sistema más eficiente y respetuoso con el planeta.
 
 ## 1.2 Concepto de economía circular  
 Modelo económico que busca optimizar el uso de los recursos al máximo, minimizando la generación de residuos. Se basa en reducir, reutilizar y reciclar, fomentando un sistema sostenible en el que los productos y materiales mantengan su utilidad durante el mayor tiempo posible.
