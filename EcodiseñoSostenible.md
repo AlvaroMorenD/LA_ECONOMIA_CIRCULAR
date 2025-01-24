@@ -1,4 +1,4 @@
-## El ecodiseño y las estrategias sostenibles
+# El ecodiseño y las estrategias sostenibles
 
 Este concepto nos permite no solo reducir el daño que causamos al planeta, sino también crear una economía más circular y sostenible. Esta filosofía va más allá de reciclar, se trata de una visión que considera todos los aspectos medioambientales en cada paso del ciclo de vida de un producto.
 
@@ -10,7 +10,7 @@ Este concepto nos permite no solo reducir el daño que causamos al planeta, sino
 -Consideración de todos los actores 
 -Precaución y prevención
 
-### Pasos para implemnentar el ecodiseño
+## Pasos para implemnentar el ecodiseño
 
 **- Compromiso gerencial:** que todos estén de acuerdo en implementarse (las empresas y demas...).
 **- Formación del equipo de trabajo.**
