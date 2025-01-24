@@ -40,7 +40,6 @@ Conjunto de etapas por las que pasa un producto desde la extracción de los recu
 ### 1.6 El ecodiseño y las estrategias sostenibles  
 El ecodiseño es un enfoque de diseño que tiene en cuenta criterios ambientales en la creación de productos, reduciendo su impacto ambiental a lo largo de su ciclo de vida. Las estrategias sostenibles son prácticas que buscan equilibrar las necesidades económicas, sociales y ambientales para lograr un desarrollo responsable.
 
---- 
 ## [Conclusiones](conclusiones.md)
 ## Autores
 - Iván Palma Sierra
