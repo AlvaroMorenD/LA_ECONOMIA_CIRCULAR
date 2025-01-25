@@ -11,7 +11,7 @@ Imagen Realizada Con [Grok (Inteligencia Artificial de Twitter)](https://x.ai/)
 
 1.4 [La economía verde](verde.md)
 
-1.5 [Ciclo de vida de un producto](CicloProducto.md)
+1.5 [Ciclo de vida de un producto](ciclo.md)
 
 1.6 [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
 
